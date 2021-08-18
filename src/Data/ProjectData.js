@@ -3,21 +3,21 @@ const projectData = [
         title: "Rocket-ui"  ,
         description: "A minimalistic CSS component library containing various components that are required for various kinds of web apps.",
         liveLink: "https://rocketui.netlify.com",
-        frontendRepo:"#",
-        backendRepo:"#"
+        frontendRepo:"https://github.com/ShasheeshPurohit/Rocket-UI",
+        backendRepo:"#",
     },
     {
         title: "Mobilewaale" ,
         description: "A mock e-commerce application for electronics developed using MERN stack and contains features such as cart, wishlist, sorting/filtering options and authentication using JWT.",
         liveLink: "https://mobilewaala.netlify.com",
-        frontendRepo:"#",
-        backendRepo:"#"
+        frontendRepo:"https://github.com/ShasheeshPurohit/ecom-frontend",
+        backendRepo:"https://github.com/ShasheeshPurohit/ecom-backend"
     },
     {
-        title: "Techtube" ,
+        title: "Techtube - under construction" ,
         description:"A video library application specifically designed for Tech Reviewers with videos embedded from Youtube and contains features such as adding videos to custom playlists, liked videos and history section and authentication using JWT" ,
         liveLink: "#",
-        frontendRepo:"#",
+        frontendRepo:"https://github.com/ShasheeshPurohit/techtube",
         backendRepo:"#"
     },
 ]
