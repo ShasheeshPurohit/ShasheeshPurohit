@@ -149,11 +149,17 @@
     .neon-sub-text{
         font-size: 1.8rem;
     }
+
+    .youtube-section > .section-heading{
+        font-size: 1.5rem;
+        word-break: normal;
+        width: 80%;
+    }
 }
 
 /*************** Project Section *************/
 
-.project-section, .blog-section{
+.project-section, .blog-section, .youtube-section{
     width: 80%;
     align-items: center;
     margin-top: 4rem;
