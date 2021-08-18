@@ -5,7 +5,7 @@
   position: relative;
   background-color: #181818;
   min-height: 100vh;
-
+  width: 100vw;
   /* justify-content: center; */
   font-size: calc(10px + 2vmin);
   color: white;

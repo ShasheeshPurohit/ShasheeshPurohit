@@ -1,3 +1,9 @@
+.navbar-cust{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
 .account-links{
     list-style: none;
     display: flex;
