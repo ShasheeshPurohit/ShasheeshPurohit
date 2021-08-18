@@ -1,0 +1,31 @@
+.account-links{
+    list-style: none;
+    display: flex;
+}
+
+.account-links > li{
+    margin-right: 1.5rem;
+    font-size: 2rem;
+    cursor: pointer;
+}
+
+.github-nav:link, .github-nav:visited{
+    color: purple;
+}
+
+.linkedin:link, .linkedin:visited{
+    color: rgb(1, 76, 216);
+}
+
+.twitter:link, .twitter:visited{
+    color: rgb(0, 149, 248);
+}
+
+.youtube:link, .youtube:visited{
+    color: red;
+}
+
+.laptop-nav{
+    color: red;
+    font-size: 2rem;
+}
