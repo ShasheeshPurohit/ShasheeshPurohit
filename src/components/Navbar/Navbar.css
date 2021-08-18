@@ -1,6 +1,7 @@
 .account-links{
     list-style: none;
     display: flex;
+    flex-wrap: wrap;
 }
 
 .account-links > li{

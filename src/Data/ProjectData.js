@@ -25,7 +25,7 @@ const projectData = [
 const blogData = [
     {
         blogTitle: "Routing with Express",
-        blogDesc: "You might be familiar with routes if you've worked with node. Routes help us to organize our app in terms of separate modules. The bigger the app gets the more the number of routes, but then that's where the magic of EXPRESS comes in play...",
+        blogDesc: "You might be familiar with routes if you've worked with node. Routes help us to organize our app in terms of separate modules....",
         blogUrl: "https://dev.to/shasheeshpurohit/routing-with-express-pag"
     },
     {
@@ -35,7 +35,7 @@ const blogData = [
     },
     {
         blogTitle: "Connecting to MongoDB with Mongoose",
-        blogDesc: "During the starting days of my journey into back-end programming, I had taken too much information right in the beginning. Although it's good to have plenty of resources but at times too much information right in the beginning this can be overwhelming ! Especially while connecting my app to mongoDB, I used to look out for pieces that would give me an overview of how it all inter connected behind the scenes...",
+        blogDesc: "During the starting days of my journey into back-end programming, I had taken too much information right in the beginning. Although it's good to have plenty of resources but at times too much information...",
         blogUrl: "https://dev.to/shasheeshpurohit/connecting-to-mongodb-with-mongoose-1428"
     },
 ]

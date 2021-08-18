@@ -12,7 +12,11 @@ function App() {
       <Navbar/>
     
     <div className="App">
+      <div className="app-header">
       <Home />
+
+      </div>
+      
       <Footer/>
     </div>
    

@@ -3,7 +3,7 @@ import {Image} from "react-bootstrap"
 import { projectData, blogData } from "../../Data/ProjectData";
 export default function Home(){
     return(
-        <div>
+        <div className="Home">
            
 
 <div class="container">
@@ -17,9 +17,9 @@ export default function Home(){
     <a href="https://drive.google.com/uc?export=download&id=18yEaCkiHQf6dec3TVCbmVV3gULToNoHD" download className="btn btn-danger btn-lg resume-btn">Download Resume</a>
  </div>
  </div>
- <div className="skill-section">
+ <div className="container-fluid">
      <p className="section-heading">Skills</p>
-     <div className="skill-section-skills container-fluid">
+     <div className="skill-section-skills">
          <div className="container-fluid skill-box">
          <i class="fab fa-js javascript skill-icon"></i>           
          <i class="fab fa-react react skill-icon"></i>
@@ -64,7 +64,9 @@ export default function Home(){
                     <div className="container-fluid blog-box">
                     <p className="box-heading">{blogTitle}</p>
                     <p>{blogDesc}</p>
+                    <div className="project-buttons">
                     <a className="btn btn-info blog-button" href={blogUrl}>Read more</a>
+                    </div>
                     </div>
                 );
             })}
