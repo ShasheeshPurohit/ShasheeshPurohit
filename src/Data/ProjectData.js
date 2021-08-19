@@ -14,11 +14,11 @@ const projectData = [
         backendRepo:"https://github.com/ShasheeshPurohit/ecom-backend"
     },
     {
-        title: "Techtube - under construction" ,
+        title: "Techtube" ,
         description:"A video library application specifically designed for Tech Reviewers with videos embedded from Youtube and contains features such as adding videos to custom playlists, liked videos and history section and authentication using JWT" ,
-        liveLink: "#",
+        liveLink: "https://techtube-lib.netlify.app/",
         frontendRepo:"https://github.com/ShasheeshPurohit/techtube",
-        backendRepo:"#"
+        backendRepo:"https://github.com/ShasheeshPurohit/techtube-backend"
     },
 ]
 
