@@ -148,6 +148,7 @@
 
     .neon-sub-text{
         font-size: 1.8rem;
+        word-break: normal;
     }
 
     .youtube-section > .section-heading{
