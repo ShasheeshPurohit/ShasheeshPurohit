@@ -14,7 +14,7 @@ export default function Home(){
           Shasheesh Purohit
     </h1>
     <p className="neon-sub-text">Full Stack Developer</p>
-    <a href="https://drive.google.com/uc?export=download&id=18yEaCkiHQf6dec3TVCbmVV3gULToNoHD" download className="btn btn-danger btn-lg resume-btn">Download Resume</a>
+    <a href="https://drive.google.com/uc?export=download&id=18yEaCkiHQf6dec3TVCbmVV3gULToNoHD" download className="btn btn-danger resume-btn">Download Resume</a>
  </div>
  </div>
  <div className="container-fluid">
