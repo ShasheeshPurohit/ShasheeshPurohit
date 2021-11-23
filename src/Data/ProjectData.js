@@ -20,6 +20,20 @@ const projectData = [
         frontendRepo:"https://github.com/ShasheeshPurohit/techtube",
         backendRepo:"https://github.com/ShasheeshPurohit/techtube-backend"
     },
+    {
+        title: "Quizzy" ,
+        description:"A small quizz application developed using typescript. The application was a demo project made while developing my skills in typescript, working to add more features in it, as of now this only works on the frontend." ,
+        liveLink: "https://quizzzzy.netlify.app/",
+        frontendRepo:"https://github.com/ShasheeshPurohit/quizzy",
+        
+    },
+    {
+        title: "Beehive-Socials" ,
+        description:"A social media application developed using MERN Stack allowing users to create their account, create a post, like, comment and follow/unfollow other users." ,
+        liveLink: "https://techtube-lib.netlify.app/",
+        frontendRepo:"https://github.com/ShasheeshPurohit/techtube",
+        backendRepo:"https://github.com/ShasheeshPurohit/techtube-backend"
+    },
 ]
 
 const blogData = [
